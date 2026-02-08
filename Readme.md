@@ -1,14 +1,14 @@
-## Simple Chat Application
+##🔗 Simple Chat Application
 
 The Simple Chat Application is a browser-based chat system that allows users to send and manage messages in real time. It supports usernames, message editing, deletion, timestamps, and chat persistence. The application is built using HTML, CSS, and JavaScript without any backend services.
 
-## Project Overview
+## 🔗 Project Overview
 
 Designed to simulate a basic chat system in the browser.Allows users to send messages with usernames.
 Stores chat history using browser local storage.Includes message management features like edit and delete.
 Focuses on JavaScript logic and DOM manipulation
 
-## Features Implemented
+## 🔗Features Implemented
 
 **User Experience**
 
@@ -46,7 +46,7 @@ Focuses on JavaScript logic and DOM manipulation
 
 * Suitable for learning JavaScript fundamentals
 
-## Technologies Used
+## 🔗Technologies Used
 
 * HTML – Structure of the chat interface
 
@@ -56,7 +56,7 @@ Focuses on JavaScript logic and DOM manipulation
 
 * Browser Local Storage – Saving chat messages
 
-## API Configuration
+## 🔗 API Configuration
 
 * No external APIs are used
 
@@ -64,7 +64,7 @@ Focuses on JavaScript logic and DOM manipulation
 
 * Date and time are generated using JavaScript Date() object
 
-## Example Inputs
+## 🔗Example Inputs
 
 * Username: Sandy
 
@@ -74,7 +74,7 @@ Focuses on JavaScript logic and DOM manipulation
 
 * Message: This chat app works well.
 
-## Project Structure
+## 🔗Project Structure
 
 Simple-Chat-App/
 │
@@ -86,7 +86,7 @@ Simple-Chat-App/
 
 └── README.md      # Project documentation
 
-## Project Description
+## 🔗Project Description
 
 * Successfully built a functional chat application
 
@@ -98,7 +98,7 @@ Simple-Chat-App/
 
 * Developed confidence in front-end application design
 
-## Future Enhancements
+## 🔗Future Enhancements
 
 * Add dark mode chat theme
 
