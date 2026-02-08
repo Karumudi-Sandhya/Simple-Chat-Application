@@ -1,4 +1,4 @@
-##🔗 Simple Chat Application
+## Simple Chat Application
 
 The Simple Chat Application is a browser-based chat system that allows users to send and manage messages in real time. It supports usernames, message editing, deletion, timestamps, and chat persistence. The application is built using HTML, CSS, and JavaScript without any backend services.
 
